@@ -97,6 +97,7 @@ body {
 .search {
   justify-self: center;
   border: none;
+  margin-left: 1.1rem;
   padding: 1.1rem 1.6rem;
   font-size: 1.8rem;
   border-radius: 0.7rem;
